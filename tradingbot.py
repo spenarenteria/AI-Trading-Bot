@@ -49,7 +49,7 @@ class MlTrader(Strategy):
 
         if cash > last_price and quantity > 0:
             if sentiment == "positive" and probability > 0.999:
-                if self.last_trade == " sell":
+                if self.last_trade == "sell":
                     self.sell_all()
                 order = self.create_order(
                     self.symbol,
