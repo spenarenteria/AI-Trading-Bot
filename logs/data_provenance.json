@@ -1,0 +1,10 @@
+{
+  "observedRoutes": [
+    {
+      "adapter": "YahooDataBacktesting",
+      "vendor": "yahoo"
+    }
+  ],
+  "policyVersion": null,
+  "selection": "Explicit data source"
+}

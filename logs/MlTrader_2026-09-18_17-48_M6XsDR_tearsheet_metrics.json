@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "start_date": "2025-12-14",
+    "end_date": "2026-09-14",
+    "total_days": 275,
+    "risk_free_rate": 0.03960000038146973,
+    "periods_per_year": 365,
+    "compounded": true,
+    "summary_only": true,
+    "quantstats_version": "1.1.5"
+  },
+  "scalar_metrics": {
+    "Start Period": {
+      "Benchmark": "2025-12-14",
+      "Strategy": "2025-12-14"
+    },
+    "End Period": {
+      "Benchmark": "2026-09-14",
+      "Strategy": "2026-09-14"
+    },
+    "Risk-Free Rate": {
+      "Benchmark": 0.039599999999999996,
+      "Strategy": 0.039599999999999996
+    },
+    "Time in Market": {
+      "Benchmark": 0.68,
+      "Strategy": 0.24
+    },
+    "Total Return": {
+      "Benchmark": 0.13,
+      "Strategy": -0.02
+    },
+    "CAGR% (Annual Return)": {
+      "Benchmark": 0.1728,
+      "Strategy": -0.031
+    },
+    "Sharpe": {
+      "Benchmark": 0.99,
+      "Strategy": -1.91
+    },
+    "RoMaD": {
+      "Benchmark": 1.95,
+      "Strategy": -0.99
+    },
+    "Corr to Benchmark": {
+      "Benchmark": 1.0,
+      "Strategy": -0.06
+    },
+    "Prob. Sharpe Ratio": {
+      "Benchmark": 0.6773,
+      "Strategy": 0.0786
+    },
+    "Smart Sharpe": {
+      "Benchmark": 0.97,
+      "Strategy": -1.87
+    },
+    "Sortino": {
+      "Benchmark": 1.47,
+      "Strategy": -2.4
+    },
+    "Smart Sortino": {
+      "Benchmark": 1.44,
+      "Strategy": -2.35
+    },
+    "Sortino/\u221a2": {
+      "Benchmark": 1.04,
+      "Strategy": -1.69
+    },
+    "Smart Sortino/\u221a2": {
+      "Benchmark": 1.02,
+      "Strategy": -1.66
+    },
+    "Omega": {
+      "Benchmark": 1.18,
+      "Strategy": 0.61
+    },
+    "Max Drawdown": {
+      "Benchmark": -0.0888,
+      "Strategy": -0.0313
+    },
+    "Longest DD Days": {
+      "Benchmark": 76.0,
+      "Strategy": 228.0
+    },
+    "Volatility (ann.)": {
+      "Benchmark": 0.12990000000000002,
+      "Strategy": 0.0364
+    },
+    "R^2": {
+      "Benchmark": 0.0,
+      "Strategy": 0.0
+    },
+    "Information Ratio": {
+      "Benchmark": -0.08,
+      "Strategy": -0.08
+    },
+    "Calmar": {
+      "Benchmark": 1.95,
+      "Strategy": -0.99
+    },
+    "Skew": {
+      "Benchmark": 0.11,
+      "Strategy": -1.05
+    },
+    "Kurtosis": {
+      "Benchmark": 2.84,
+      "Strategy": 10.86
+    },
+    "Expected Daily%": {
+      "Benchmark": 0.0004,
+      "Strategy": -0.0001
+    },
+    "Expected Monthly%": {
+      "Benchmark": 0.012,
+      "Strategy": -0.0024
+    },
+    "Expected Yearly%": {
+      "Benchmark": 0.0616,
+      "Strategy": -0.011699999999999999
+    },
+    "Daily Value-at-Risk": {
+      "Benchmark": -0.010700000000000001,
+      "Strategy": -0.0032
+    },
+    "Expected Shortfall (cVaR)": {
+      "Benchmark": -0.0152,
+      "Strategy": -0.0060999999999999995
+    },
+    "MTD": {
+      "Benchmark": -0.008,
+      "Strategy": 0.0
+    },
+    "3M": {
+      "Benchmark": 0.028399999999999998,
+      "Strategy": 0.0
+    },
+    "6M": {
+      "Benchmark": 0.155,
+      "Strategy": -0.0128
+    },
+    "YTD": {
+      "Benchmark": 0.12179999999999999,
+      "Strategy": -0.0246
+    },
+    "1Y": {
+      "Benchmark": 0.127,
+      "Strategy": -0.0233
+    },
+    "3Y (ann.)": {
+      "Benchmark": 0.1728,
+      "Strategy": -0.031
+    },
+    "5Y (ann.)": {
+      "Benchmark": 0.1728,
+      "Strategy": -0.031
+    },
+    "10Y (ann.)": {
+      "Benchmark": 0.1728,
+      "Strategy": -0.031
+    },
+    "All-time (ann.)": {
+      "Benchmark": 0.1728,
+      "Strategy": -0.031
+    },
+    "Best Day": {
+      "Benchmark": 0.0291,
+      "Strategy": 0.0084
+    },
+    "Worst Day": {
+      "Benchmark": -0.0258,
+      "Strategy": -0.0108
+    },
+    "Best Month": {
+      "Benchmark": 0.1051,
+      "Strategy": 0.006500000000000001
+    },
+    "Worst 1-Month Return": {
+      "Benchmark": -0.0493,
+      "Strategy": -0.0287
+    },
+    "Best Year": {
+      "Benchmark": 0.12179999999999999,
+      "Strategy": 0.0012
+    },
+    "Worst Year": {
+      "Benchmark": 0.004699999999999999,
+      "Strategy": -0.0246
+    },
+    "Avg. Drawdown": {
+      "Benchmark": -0.015700000000000002,
+      "Strategy": -0.0115
+    },
+    "Avg. Drawdown Days": {
+      "Benchmark": 13.0,
+      "Strategy": 54.0
+    },
+    "Recovery Factor": {
+      "Benchmark": 1.42,
+      "Strategy": 0.74
+    },
+    "Ulcer Index": {
+      "Benchmark": 0.02,
+      "Strategy": 0.03
+    },
+    "Serenity Index": {
+      "Benchmark": 0.42,
+      "Strategy": -0.11
+    },
+    "Annualized Return on Risk Capital": {
+      "Benchmark": 1.8988999999999998,
+      "Strategy": -0.9886
+    },
+    "Worst 3-Month Return": {
+      "Benchmark": -0.0436,
+      "Strategy": -0.030899999999999997
+    },
+    "Time to Recovery (Days)": {
+      "Benchmark": 14.0,
+      "Strategy": 178.0
+    },
+    "5th Percentile Tail Loss": {
+      "Benchmark": -0.0124,
+      "Strategy": -0.003
+    },
+    "Time Underwater (Days)": {
+      "Benchmark": 224.0,
+      "Strategy": 269.0
+    },
+    "Percent Positive Months": {
+      "Benchmark": 0.6,
+      "Strategy": 0.2
+    },
+    "Avg. Up Month": {
+      "Benchmark": 0.0097,
+      "Strategy": 0.0039000000000000003
+    },
+    "Avg. Down Month": {
+      "Benchmark": -0.028999999999999998,
+      "Strategy": -0.0155
+    },
+    "Win Days": {
+      "Benchmark": 141.94,
+      "Strategy": 120.83
+    },
+    "Loss Days": {
+      "Benchmark": 133.06,
+      "Strategy": 154.17
+    },
+    "Win Days%": {
+      "Benchmark": 0.5161,
+      "Strategy": 0.43939999999999996
+    },
+    "Win Month%": {
+      "Benchmark": 0.6,
+      "Strategy": 0.5
+    },
+    "Win Quarter%": {
+      "Benchmark": 0.75,
+      "Strategy": 0.5
+    },
+    "Win Year%": {
+      "Benchmark": 1.0,
+      "Strategy": 0.5
+    },
+    "Beta": -0.02,
+    "Alpha": -0.03,
+    "Correlation": -0.06480000000000001,
+    "Treynor Ratio": 3.4654000000000003
+  },
+  "summary_tables": {
+    "eoy_returns_vs_benchmark": [
+      {
+        "year": 2025,
+        "strategy": 0.0012483160400389437,
+        "benchmark": 0.0046638294042049555,
+        "multiplier": 0.2676590269175475,
+        "won": false
+      },
+      {
+        "year": 2026,
+        "strategy": -0.02456196466846927,
+        "benchmark": 0.12176673027176799,
+        "multiplier": -0.20171326448242524,
+        "won": false
+      }
+    ],
+    "drawdowns": [
+      {
+        "start": "2025-12-16",
+        "valley": "2025-12-22",
+        "end": "2025-12-28",
+        "days": 13.0,
+        "max drawdown": -0.8438399088895654,
+        "99% max drawdown": -0.7702442025952494
+      },
+      {
+        "start": "2025-12-30",
+        "valley": "2026-01-05",
+        "end": "2026-01-07",
+        "days": 9.0,
+        "max drawdown": -0.35860672269377725,
+        "99% max drawdown": -0.2982358782879668
+      },
+      {
+        "start": "2026-01-09",
+        "valley": "2026-01-09",
+        "end": "2026-01-13",
+        "days": 5.0,
+        "max drawdown": -0.2448567334433327,
+        "99% max drawdown": -0.11334613051177111
+      },
+      {
+        "start": "2026-01-15",
+        "valley": "2026-01-22",
+        "end": "2026-01-28",
+        "days": 14.0,
+        "max drawdown": -1.1481455787262562,
+        "99% max drawdown": -1.0147773224077783
+      },
+      {
+        "start": "2026-01-30",
+        "valley": "2026-03-20",
+        "end": "2026-09-14",
+        "days": 228.0,
+        "max drawdown": -3.1341840359968565,
+        "99% max drawdown": -2.2198502935286246
+      }
+    ]
+  }
+}
